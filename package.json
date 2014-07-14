@@ -1,0 +1,21 @@
+{
+  "name": "basic-oop",
+  "version": "0.0.0",
+  "description": "This project is a basic introduction to object oriented programming.",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LizaHCarter/basic-oop.git"
+  },
+  "author": "Liza Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizaHCarter/basic-oop/issues"
+  },
+  "homepage": "https://github.com/LizaHCarter/basic-oop"
+}
